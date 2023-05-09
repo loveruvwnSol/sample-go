@@ -1,1 +1,3 @@
 # sample-go
+
+first golang
